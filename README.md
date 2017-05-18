@@ -1,5 +1,5 @@
 # calender_CodeSkill-6
-Exeercise from CodeSkill#6 - remember correct this 
+Exeercise from CodeSkill#6 - remember correct this programme 
 
 Mając listę wydarzeń w kalendarzu, napisz funkcję sprawdzającą dostępność terminu 
 dla nowego wydarzenia.
